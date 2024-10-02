@@ -24,7 +24,7 @@ from htmlTemplates import page_style, title_html, sidebar_style, logo_html
 os.environ["OPENAI_API_KEY"] = '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'
 
 # Directory to load the documents from
-docs_directory = "/content/docs"
+docs_directory = "./docs"
 chroma_db_path = "chroma_db"
 
 def is_dual_page_layout(page):

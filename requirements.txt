@@ -1,5 +1,7 @@
 streamlit
 langchain
 pdfplumber
-langchain-embeddings
+langchain_openai
+chromadb
+langchain_community
 langchain-chroma
