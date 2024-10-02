@@ -75,7 +75,7 @@ page_style = """
 # Title section with custom style
 title_html = """
     <div class="title-container">
-        <strong>Post Purchase Policy Servicer - Home Insurance</strong>
+        <strong>Policy Service - Home Insurance</strong>
     </div>
     """
 
